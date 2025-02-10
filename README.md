@@ -4,7 +4,7 @@
   <h1>Hi there! 👋 I'm a Full-Stack Developer and CS Student</h1>
   <p>
     I'm a senior majoring in <strong>Computer Science</strong> and <strong>Statistics</strong> at Macalester College. 
-    Currently, I'm working as a <strong>Full Stack Developer</strong> at a startup in the Twin Cities called <strong>Revestify</strong>, where I build scalable systems for managing donations and enhancing user experiences.
+    Currently, I'm working as a <strong>Full Stack Developer</strong> at a startup in the Twin Cities called <strong>Revestify</strong>, where I build front-end solutions and aid in creating scalable systems for managing donations and enhancing user experiences.
   </p>
   <p>
     I love exploring the intersection of <strong>technology, logic, and math</strong>, and I'm passionate about solving real-world problems through software engineering and data-driven approaches.
