@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub+Profile!" alt="Banner Image" />
+  <img src="real this time.svg" alt="Banner Image" />
 
   <h1>Hi there! 👋 I'm a Full-Stack Developer and CS Student</h1>
   <p>
