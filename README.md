@@ -1,18 +1,18 @@
 
 <img src="real this time.svg" alt="Banner Image" />
 <div align="center">
-  <h1><strong>Fullstack Software Engineer @ Revestify</strong></h1>
+  <h3><strong>Fullstack Software Engineer @ Revestify</strong></h3>
   <h3><strong>Macalester College CS & Stats Grad in Saint Paul, MN</strong></h3>
 </div>
 <hr />
 
 <div align="center">
 
+<br/>
 <h1>🛠️ Technical Skills</h1>
-
 <!-- LANGUAGES -->
 <p>
-  <strong>Languages</strong><br/>
+<!--   <strong>Languages</strong><br/> -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
@@ -25,7 +25,7 @@
 
 <!-- FRAMEWORKS -->
 <p>
-  <strong>Frameworks & Libraries</strong><br/>
+<!--   <strong>Frameworks & Libraries</strong><br/> -->
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" />
@@ -39,7 +39,7 @@
 
 <!-- TOOLS -->
 <p>
-  <strong>Tools</strong><br/>
+<!--   <strong>Tools</strong><br/> -->
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
@@ -49,6 +49,13 @@
   <img src="https://img.shields.io/badge/Plaid-000000?style=flat&logo=plaid&logoColor=white" />
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white" />
 </p>
+
+<br/>
+<h1>📈 GitHub Stats</h1>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LongAtGitHub&layout=compact&theme=github_dark" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=LongAtGitHub&theme=darkhub&no-frame=true&row=1&column=4" />
 
 </div>
 
