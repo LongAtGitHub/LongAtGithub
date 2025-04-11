@@ -1,5 +1,5 @@
 
-<img src="LinkedIn Profile Banner New Style.svg" alt="Banner Image" />
+<img src="LinkedIn Profile Banner New 11 am PNG.png" alt="Banner Image" />
 <div align="center">
   <h4><strong>Fullstack Software Engineer @ Revestify</strong></h4>
   <h4><strong>Macalester College CS & Stats Grad in Saint Paul, MN</strong></h4>
