@@ -1,5 +1,5 @@
 
-<img src="real this time.svg" alt="Banner Image" />
+<img src="new banner.svg" alt="Banner Image" />
 <div align="center">
   <h3><strong>Fullstack Software Engineer @ Revestify</strong></h3>
   <h3><strong>Macalester College CS & Stats Grad in Saint Paul, MN</strong></h3>
